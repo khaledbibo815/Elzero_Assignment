@@ -1,0 +1,18 @@
+.one div{
+    width: 400px;
+    background-color: #eee;
+    padding: 20px;
+    margin: 20px;
+}
+
+.a{
+    border-left: 10px solid #e91e63;
+    outline: 10px solid #eee;
+}
+.b{
+    visibility: hidden;}
+    
+.c{
+    border-left: 10px solid #03a9f4;
+    outline: 10px solid #eee;
+}
