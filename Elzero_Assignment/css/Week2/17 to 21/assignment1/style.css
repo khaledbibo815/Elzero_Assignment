@@ -1,0 +1,11 @@
+div {
+  background-color: #eee;
+  padding: 20px;
+  margin: 20px auto;
+  width: 400px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 23px;
+  text-shadow: 0.5px 0.5px 0 #f44336, 1px 1px 0 rgb(70, 70, 238),
+    2px 2px 0 rgb(131, 0, 131);
+}
