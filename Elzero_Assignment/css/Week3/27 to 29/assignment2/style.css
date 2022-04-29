@@ -1,0 +1,15 @@
+.Parent div {
+    margin: 20px auto;
+    width: 300px;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 20px;
+    background-color: rgb(179 179 179);
+    color: black;
+  }
+  .Parent .one{
+      background-color: rgb(179 179 179 / 0.1);
+  }
+  .Parent .two{
+      opacity: .1;
+  }
